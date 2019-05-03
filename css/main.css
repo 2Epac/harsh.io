@@ -30,3 +30,13 @@
 body{       
     margin:0;
 }
+.quote-css{
+    color: blanchedalmond;
+    font-size: x-large;
+}
+
+.instagram-link{
+    align-self: center;
+    block-size: 1cm; 
+    border-color: chartreuse;
+}
